@@ -1,10 +1,12 @@
 
-.azeret-mono-<normal> {
-  font-family: "Azeret Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+*{
+   .azeret-mono-<normal>
+      font-family: "Azeret Mono", monospace;
+      font-optical-sizing: auto;
+      font-weight: ;
+      font-style: normal;
 }
+
 .main-banner{
    display: flex;
    justify-content: space-around;
