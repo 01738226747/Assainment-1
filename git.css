@@ -28,7 +28,23 @@
 
 }
 .btn1{
-   padding: 20px;
+  margin-top: 20px;
+  background-color: #0D1321;
+  color: #FFFFFF;
+  padding: 5px;
+}
+.ch{
+   height: 100px;
+   width: 100px;
+   border: 2px solid green;
+   
+}
+.chh{
+   height: 100px;
+   width: 100px;
+   border: 2px solid violet;
+   
+
    color: #FFFFFF;
    background-color: #0D1321;
    font-size: 20px;
@@ -47,11 +63,11 @@ margin: 0 auto;
    
 }
 .btn2{
-   padding: 10px;
+   padding: 5px 10px 5px 10px;
    color:#0D1321;
    
    background-color: white;
-   font-size: 5px 10px 5px 10px;
+   font-size: 10px;
    
 }
 
@@ -84,4 +100,57 @@ margin: 0 auto;}
 .video{
 margin: 0 auto;
 }
+.mc{
+   text-align: center;
+   width: 1440px;
+}
+.section3{
+   display: flex;
+  justify-content: space-evenly;
+   width: 800px;
+   height: 250px;
+   
+   margin-left: 300px;
+}
+.html{
+   height: 220px;
+   width: 200px;
+   
+   padding: 10px;
+   background-color: #EBEBEB;
+   border-radius: 5px;
+  
+  
+}
+.css{
+   height: 220px;
+   width: 200px;
+  
+   padding: 10px;
+   background-color: #EBEBEB;
+   border-radius: 5px;
+   
+  
+  
+}
+
+.java{
+   height: 220px;
+   width: 200px;
+  
+   padding: 10px;
+   background-color: #EBEBEB;
+   border-radius: 5px;
+  
+  
+}
+.btn3{
+   
+   color:#0D1321;
+   
+   background-color: white;
+  
+}
+
+
 
