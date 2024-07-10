@@ -151,6 +151,31 @@ margin: 0 auto;
    background-color: white;
   
 }
+.footer{
+   width: 1140px;
+   height: 250px;
+  margin: 0 auto;
+   background-image: url(B10A1-Challenge-Begins/assets/handshake.jpg);
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-position:center;
+   text-align: center;
+   border-radius: 5px;
+   
+   
+}
+.text{
+border-radius: 5px;
+   padding: 5px;
+   width: 200px;
+   
+}
+.submit{
+   border-radius: 5px;
+      padding: 5px;
+      color: #0D1321;
+   }
+   
 
 
 
