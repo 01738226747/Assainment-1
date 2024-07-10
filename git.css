@@ -1,11 +1,10 @@
 
-*{
-   .azeret-mono-<normal>
+
+  *{.azeret-mono-<normal>
       font-family: "Azeret Mono", monospace;
       font-optical-sizing: auto;
       font-weight: ;
-      font-style: normal;
-}
+      font-style: normal;}
 
 .main-banner{
    display: flex;
@@ -117,7 +116,7 @@ margin: 0 auto;
    width: 200px;
    
    padding: 10px;
-   background-color: #EBEBEB;
+   background-color: #FDA7DF;
    border-radius: 5px;
   
   
@@ -127,7 +126,7 @@ margin: 0 auto;
    width: 200px;
   
    padding: 10px;
-   background-color: #EBEBEB;
+   background-color: #d2dae2;
    border-radius: 5px;
    
   
@@ -139,7 +138,7 @@ margin: 0 auto;
    width: 200px;
   
    padding: 10px;
-   background-color: #EBEBEB;
+   background-color: #feca57;
    border-radius: 5px;
   
   
@@ -174,6 +173,18 @@ border-radius: 5px;
    border-radius: 5px;
       padding: 5px;
       color: #0D1321;
+   }
+   .footer2{
+      display: flex;
+      width: 1140px;
+      justify-content: space-between;
+     
+      margin: 0 auto;
+      margin-top: 30px;
+   }
+   .subfooter2{
+      display: flex;
+      gap: 10px;
    }
    
 
