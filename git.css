@@ -34,3 +34,47 @@
    font-size: 20px;
    border-radius: 5px;
 }
+.main-section{
+   margin-top: 50px;
+  
+   width: 1440px;
+   text-align: center;
+}
+.main01div{
+   width: 1000px;
+margin: 0 auto;
+
+   
+}
+.btn2{
+   padding: 10px;
+   color:#0D1321;
+   
+   background-color: white;
+   font-size: 5px 10px 5px 10px;
+   
+}
+
+.main1div{
+   display: flex;
+   justify-content: space-between;
+height: 250px;
+width: 500px;
+
+margin: 0 auto;
+}
+
+.main2div{
+   display: flex;
+   justify-content: space-between;
+height: 250px;
+width: 500px;
+margin: 0 auto;
+}
+.main3div{
+   display: flex;
+   justify-content: space-between;
+height: 250px;
+width: 500px;
+margin: 0 auto;}
+
